@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <h1 className="font-bold text-4xl text-blue-300 ">
-          Resume/CV Generator
+          AI Resume/CV Generator
         </h1>
         {/*<p>
           Edit <code>src/App.js</code> and save to reload.
